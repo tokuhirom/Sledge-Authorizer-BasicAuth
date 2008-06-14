@@ -3,7 +3,7 @@ use strict;
 use warnings;
 use base qw(Sledge::Authorizer Class::Data::Inheritable);
 
-our $VERSION = '0.03';
+our $VERSION = '0.04';
 
 use MIME::Base64 qw//;
 
