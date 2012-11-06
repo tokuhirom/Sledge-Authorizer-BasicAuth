@@ -1,7 +1,7 @@
 ---
 abstract: 'Basic Authentication module for Sledge'
 author:
-  - unknown
+  - 'MATSUNO Tokuhiro E<lt>tokuhirom@gmail.comE<gt>'
 build_requires:
   Test::More: 0.98
 configure_requires:
@@ -23,7 +23,7 @@ provides:
     version: 0.04
 requires:
   Class::Data::Inheritable: 0.08
-  Filter::Util::Call: 0
+  perl: 5.008001
 resources:
   license: http://dev.perl.org/licenses/
 version: 0.04
