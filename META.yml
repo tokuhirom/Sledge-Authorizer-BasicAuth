@@ -20,10 +20,10 @@ no_index:
 provides:
   Sledge::Authorizer::BasicAuth:
     file: lib/Sledge/Authorizer/BasicAuth.pm
-    version: 0.04
+    version: 0.05
 requires:
   Class::Data::Inheritable: 0.08
   perl: 5.008001
 resources:
   license: http://dev.perl.org/licenses/
-version: 0.04
+version: 0.05
